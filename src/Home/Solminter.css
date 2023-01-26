@@ -4,7 +4,7 @@ body{
 }
 .home{
     min-height:100vh;
-      border:5px solid rgb(55, 30, 183);
+      /* border:5px solid rgb(55, 30, 183); */
     background-color: #fff;
 }
 .popupmain{
